@@ -1,10 +1,10 @@
-El error absoluto de Adri es: 374; y el error ponderado por abajo es 140.1391915674649; y por arriba es 169.95774254324147 
+El error absoluto de Adri es: 352; y el error ponderado por abajo es 125.09145334800915; y por arriba es 165.42897378022093 
 
-El error absoluto de Ionescu es: 446; y el error ponderado por abajo es 163.18958798852006; y por arriba es 225.47061252849488 
+El error absoluto de Ionescu es: 438; y el error ponderado por abajo es 156.66670855465887; y por arriba es 224.63446936460238 
 
-El error absoluto de Sandra es: 390; y el error ponderado por abajo es 168.85313166203304; y por arriba es 170.34375068241576 
+El error absoluto de Sandra es: 372; y el error ponderado por abajo es 156.81603040523834; y por arriba es 166.52546489264768 
 
-El error absoluto de Alex es: 360; y el error ponderado por abajo es 139.8216755756996; y por arriba es 169.2304920995149 
+El error absoluto de Alex es: 330; y el error ponderado por abajo es 120.69717634839046; y por arriba es 162.15972145670608 
 
-El error absoluto de Xabo es: 256; y el error ponderado por abajo es 105.72544538645127; y por arriba es 112.37534071343615 
+El error absoluto de Xabo es: 220; y el error ponderado por abajo es 88.44779758820144; y por arriba es 101.84551200158293 
 
