@@ -1,12 +1,12 @@
-El error absoluto de Adri es: 392; y el error ponderado por abajo es 133.95881258064986; y por arriba es 185.41477030859483 
+El error absoluto de Adri es: 366; y el error ponderado por abajo es 129.67635235255855; y por arriba es 171.68777663433153 
 
-El error absoluto de Ionescu es: 482; y el error ponderado por abajo es 165.28956866811336; y por arriba es 243.216044822378 
+El error absoluto de Ionescu es: 488; y el error ponderado por abajo es 170.00968672711443; y por arriba es 241.08706917090998 
 
-El error absoluto de Sandra es: 418; y el error ponderado por abajo es 155.65635419205188; y por arriba es 189.0205459386167 
+El error absoluto de Sandra es: 382; y el error ponderado por abajo es 143.4477908792806; y por arriba es 172.2225928327296 
 
-El error absoluto de Alex es: 388; y el error ponderado por abajo es 134.26901751670397; y por arriba es 187.8057653743204 
+El error absoluto de Alex es: 362; y el error ponderado por abajo es 127.0705892743203; y por arriba es 176.0869584278732 
 
-El error absoluto de Xabo es: 242; y el error ponderado por abajo es 88.42679371714598; y por arriba es 111.54660122694173 
+El error absoluto de Xabo es: 234; y el error ponderado por abajo es 90.44296649571659; y por arriba es 104.8141898886179 
 
 Contenido del DataFrame errorEquipoOAdri:
 15×2 DataFrame
@@ -19,10 +19,10 @@ Contenido del DataFrame errorEquipoOAdri:
    4 │ Denver Nuggets          4
    5 │ Los Angeles Lakers      9
    6 │ LA Clippers             36
-   7 │ Dallas Mavericks        9
-   8 │ Minnesota Timberwolves  25
-   9 │ Sacramento Kings        9
-  10 │ Phoenix Suns            25
+   7 │ Minnesota Timberwolves  16
+   8 │ Phoenix Suns            9
+   9 │ Dallas Mavericks        25
+  10 │ Sacramento Kings        16
   11 │ Golden State Warriors   4
   12 │ San Antonio Spurs       4
   13 │ Portland Trail Blazers  4
@@ -39,15 +39,15 @@ Contenido del DataFrame errorEquipoEAdri:
    3 │ New York Knicks      0
    4 │ Milwaukee Bucks      4
    5 │ Indiana Pacers       4
-   6 │ Detroit Pistons      81
+   6 │ Miami Heat           4
    7 │ Orlando Magic        1
-   8 │ Atlanta Hawks        1
-   9 │ Miami Heat           1
+   8 │ Detroit Pistons      49
+   9 │ Atlanta Hawks        0
   10 │ Chicago Bulls        0
   11 │ Philadelphia 76ers   49
-  12 │ Brooklyn Nets        0
-  13 │ Charlotte Hornets    4
-  14 │ Toronto Raptors      1
+  12 │ Toronto Raptors      1
+  13 │ Brooklyn Nets        1
+  14 │ Charlotte Hornets    9
   15 │ Washington Wizards   1
 
 Contenido del DataFrame errorEquipoOIonescu:
@@ -61,10 +61,10 @@ Contenido del DataFrame errorEquipoOIonescu:
    4 │ Denver Nuggets          1
    5 │ Los Angeles Lakers      4
    6 │ LA Clippers             9
-   7 │ Dallas Mavericks        36
-   8 │ Minnesota Timberwolves  9
-   9 │ Sacramento Kings        25
-  10 │ Phoenix Suns            4
+   7 │ Minnesota Timberwolves  4
+   8 │ Phoenix Suns            0
+   9 │ Dallas Mavericks        64
+  10 │ Sacramento Kings        36
   11 │ Golden State Warriors   25
   12 │ San Antonio Spurs       4
   13 │ Portland Trail Blazers  4
@@ -81,15 +81,15 @@ Contenido del DataFrame errorEquipoEIonescu:
    3 │ New York Knicks      1
    4 │ Milwaukee Bucks      1
    5 │ Indiana Pacers       4
-   6 │ Detroit Pistons      49
+   6 │ Miami Heat           9
    7 │ Orlando Magic        9
-   8 │ Atlanta Hawks        0
-   9 │ Miami Heat           0
+   8 │ Detroit Pistons      25
+   9 │ Atlanta Hawks        1
   10 │ Chicago Bulls        0
   11 │ Philadelphia 76ers   25
-  12 │ Brooklyn Nets        9
-  13 │ Charlotte Hornets    1
-  14 │ Toronto Raptors      9
+  12 │ Toronto Raptors      1
+  13 │ Brooklyn Nets        4
+  14 │ Charlotte Hornets    4
   15 │ Washington Wizards   1
 
 Contenido del DataFrame errorEquipoOSandra:
@@ -103,10 +103,10 @@ Contenido del DataFrame errorEquipoOSandra:
    4 │ Denver Nuggets          1
    5 │ Los Angeles Lakers      4
    6 │ LA Clippers             36
-   7 │ Dallas Mavericks        25
-   8 │ Minnesota Timberwolves  16
-   9 │ Sacramento Kings        1
-  10 │ Phoenix Suns            25
+   7 │ Minnesota Timberwolves  9
+   8 │ Phoenix Suns            9
+   9 │ Dallas Mavericks        49
+  10 │ Sacramento Kings        0
   11 │ Golden State Warriors   9
   12 │ San Antonio Spurs       1
   13 │ Portland Trail Blazers  4
@@ -123,15 +123,15 @@ Contenido del DataFrame errorEquipoESandra:
    3 │ New York Knicks      1
    4 │ Milwaukee Bucks      0
    5 │ Indiana Pacers       4
-   6 │ Detroit Pistons      81
+   6 │ Miami Heat           4
    7 │ Orlando Magic        1
-   8 │ Atlanta Hawks        1
-   9 │ Miami Heat           1
+   8 │ Detroit Pistons      49
+   9 │ Atlanta Hawks        0
   10 │ Chicago Bulls        0
   11 │ Philadelphia 76ers   64
-  12 │ Brooklyn Nets        0
-  13 │ Charlotte Hornets    0
-  14 │ Toronto Raptors      9
+  12 │ Toronto Raptors      1
+  13 │ Brooklyn Nets        1
+  14 │ Charlotte Hornets    1
   15 │ Washington Wizards   1
 
 Contenido del DataFrame errorEquipoOAlex:
@@ -145,10 +145,10 @@ Contenido del DataFrame errorEquipoOAlex:
    4 │ Denver Nuggets          1
    5 │ Los Angeles Lakers      9
    6 │ LA Clippers             49
-   7 │ Dallas Mavericks        25
-   8 │ Minnesota Timberwolves  25
-   9 │ Sacramento Kings        4
-  10 │ Phoenix Suns            36
+   7 │ Minnesota Timberwolves  16
+   8 │ Phoenix Suns            16
+   9 │ Dallas Mavericks        49
+  10 │ Sacramento Kings        9
   11 │ Golden State Warriors   4
   12 │ San Antonio Spurs       1
   13 │ Portland Trail Blazers  4
@@ -165,15 +165,15 @@ Contenido del DataFrame errorEquipoEAlex:
    3 │ New York Knicks      1
    4 │ Milwaukee Bucks      1
    5 │ Indiana Pacers       1
-   6 │ Detroit Pistons      49
+   6 │ Miami Heat           4
    7 │ Orlando Magic        9
-   8 │ Atlanta Hawks        4
-   9 │ Miami Heat           1
+   8 │ Detroit Pistons      25
+   9 │ Atlanta Hawks        1
   10 │ Chicago Bulls        1
   11 │ Philadelphia 76ers   36
-  12 │ Brooklyn Nets        4
-  13 │ Charlotte Hornets    4
-  14 │ Toronto Raptors      4
+  12 │ Toronto Raptors      0
+  13 │ Brooklyn Nets        1
+  14 │ Charlotte Hornets    9
   15 │ Washington Wizards   0
 
 Contenido del DataFrame errorEquipoOXabo:
@@ -187,10 +187,10 @@ Contenido del DataFrame errorEquipoOXabo:
    4 │ Denver Nuggets          1
    5 │ Los Angeles Lakers      1
    6 │ LA Clippers             16
-   7 │ Dallas Mavericks        25
-   8 │ Minnesota Timberwolves  9
-   9 │ Sacramento Kings        1
-  10 │ Phoenix Suns            9
+   7 │ Minnesota Timberwolves  4
+   8 │ Phoenix Suns            1
+   9 │ Dallas Mavericks        49
+  10 │ Sacramento Kings        4
   11 │ Golden State Warriors   1
   12 │ San Antonio Spurs       1
   13 │ Portland Trail Blazers  4
@@ -207,14 +207,14 @@ Contenido del DataFrame errorEquipoEXabo:
    3 │ New York Knicks      1
    4 │ Milwaukee Bucks      1
    5 │ Indiana Pacers       0
-   6 │ Detroit Pistons      49
+   6 │ Miami Heat           4
    7 │ Orlando Magic        0
-   8 │ Atlanta Hawks        1
-   9 │ Miami Heat           1
+   8 │ Detroit Pistons      25
+   9 │ Atlanta Hawks        0
   10 │ Chicago Bulls        1
   11 │ Philadelphia 76ers   25
-  12 │ Brooklyn Nets        4
-  13 │ Charlotte Hornets    9
-  14 │ Toronto Raptors      4
+  12 │ Toronto Raptors      0
+  13 │ Brooklyn Nets        1
+  14 │ Charlotte Hornets    16
   15 │ Washington Wizards   0
 
