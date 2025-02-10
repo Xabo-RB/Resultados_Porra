@@ -1,12 +1,12 @@
-El error absoluto de Adri es: 362; y el error ponderado por abajo es 129.6810069372413; y por arriba es 157.9859869598937 
+El error absoluto de Adri es: 364; y el error ponderado por abajo es 130.7094902403515; y por arriba es 158.4987035207119 
 
-El error absoluto de Ionescu es: 498; y el error ponderado por abajo es 177.83189547639589; y por arriba es 245.4263413431268 
+El error absoluto de Ionescu es: 490; y el error ponderado por abajo es 173.8390975337737; y por arriba es 243.307052830588 
 
-El error absoluto de Sandra es: 384; y el error ponderado por abajo es 158.41078335214334; y por arriba es 158.17630770782313 
+El error absoluto de Sandra es: 394; y el error ponderado por abajo es 162.9475235186015; y por arriba es 161.08200185824407 
 
-El error absoluto de Alex es: 362; y el error ponderado por abajo es 132.3001399699396; y por arriba es 164.21787148513357 
+El error absoluto de Alex es: 368; y el error ponderado por abajo es 135.38558987927013; y por arriba es 165.7560211675882 
 
-El error absoluto de Xabo es: 232; y el error ponderado por abajo es 96.2650011991166; y por arriba es 96.09902362462714 
+El error absoluto de Xabo es: 234; y el error ponderado por abajo es 97.17234923240824; y por arriba es 96.68016245471134 
 
 Contenido del DataFrame errorEquipoOAdri:
 15×2 DataFrame
@@ -21,8 +21,8 @@ Contenido del DataFrame errorEquipoOAdri:
    6 │ Minnesota Timberwolves  9
    7 │ LA Clippers             25
    8 │ Dallas Mavericks        16
-   9 │ Phoenix Suns            16
-  10 │ Sacramento Kings        16
+   9 │ Sacramento Kings        9
+  10 │ Phoenix Suns            25
   11 │ Golden State Warriors   4
   12 │ San Antonio Spurs       4
   13 │ Portland Trail Blazers  4
@@ -63,8 +63,8 @@ Contenido del DataFrame errorEquipoOIonescu:
    6 │ Minnesota Timberwolves  1
    7 │ LA Clippers             4
    8 │ Dallas Mavericks        49
-   9 │ Phoenix Suns            1
-  10 │ Sacramento Kings        36
+   9 │ Sacramento Kings        25
+  10 │ Phoenix Suns            4
   11 │ Golden State Warriors   25
   12 │ San Antonio Spurs       4
   13 │ Portland Trail Blazers  4
@@ -105,8 +105,8 @@ Contenido del DataFrame errorEquipoOSandra:
    6 │ Minnesota Timberwolves  4
    7 │ LA Clippers             25
    8 │ Dallas Mavericks        36
-   9 │ Phoenix Suns            16
-  10 │ Sacramento Kings        0
+   9 │ Sacramento Kings        1
+  10 │ Phoenix Suns            25
   11 │ Golden State Warriors   9
   12 │ San Antonio Spurs       1
   13 │ Portland Trail Blazers  4
@@ -147,8 +147,8 @@ Contenido del DataFrame errorEquipoOAlex:
    6 │ Minnesota Timberwolves  9
    7 │ LA Clippers             36
    8 │ Dallas Mavericks        36
-   9 │ Phoenix Suns            25
-  10 │ Sacramento Kings        9
+   9 │ Sacramento Kings        4
+  10 │ Phoenix Suns            36
   11 │ Golden State Warriors   4
   12 │ San Antonio Spurs       1
   13 │ Portland Trail Blazers  4
@@ -189,8 +189,8 @@ Contenido del DataFrame errorEquipoOXabo:
    6 │ Minnesota Timberwolves  1
    7 │ LA Clippers             9
    8 │ Dallas Mavericks        36
-   9 │ Phoenix Suns            4
-  10 │ Sacramento Kings        4
+   9 │ Sacramento Kings        1
+  10 │ Phoenix Suns            9
   11 │ Golden State Warriors   1
   12 │ San Antonio Spurs       1
   13 │ Portland Trail Blazers  4
