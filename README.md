@@ -1,15 +1,3 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-El error absoluto de Adri es: 504; y el error ponderado por abajo es 192.58577585777715; y por arriba es 223.52124328735079 
-
-El error absoluto de Ionescu es: 474; y el error ponderado por abajo es 181.5781746379904; y por arriba es 213.18143211735406 
-
-El error absoluto de Sandra es: 518; y el error ponderado por abajo es 207.9406400786275; y por arriba es 222.2297460334487 
-
-El error absoluto de Alex es: 508; y el error ponderado por abajo es 192.91298917634865; y por arriba es 230.09707917429938 
-
-El error absoluto de Xabo es: 364; y el error ponderado por abajo es 146.26436191929005; y por arriba es 150.03847251007912 
-=======
 El error absoluto de Adri es: 492; y el error ponderado por abajo es 188.58577585777715; y por arriba es 218.98566961124007 
 
 El error absoluto de Ionescu es: 472; y el error ponderado por abajo es 180.89440240400722; y por arriba es 212.45578698879024 
@@ -19,18 +7,6 @@ El error absoluto de Sandra es: 510; y el error ponderado por abajo es 205.27397
 El error absoluto de Alex es: 496; y el error ponderado por abajo es 188.91298917634865; y por arriba es 225.5615054981887 
 
 El error absoluto de Xabo es: 350; y el error ponderado por abajo es 142.1963901087007; y por arriba es 143.68703627703766 
->>>>>>> Stashed changes
-=======
-El error absoluto de Adri es: 492; y el error ponderado por abajo es 188.58577585777715; y por arriba es 218.98566961124007 
-
-El error absoluto de Ionescu es: 472; y el error ponderado por abajo es 180.89440240400722; y por arriba es 212.45578698879024 
-
-El error absoluto de Sandra es: 510; y el error ponderado por abajo es 205.27397341196087; y por arriba es 219.20603024937486 
-
-El error absoluto de Alex es: 496; y el error ponderado por abajo es 188.91298917634865; y por arriba es 225.5615054981887 
-
-El error absoluto de Xabo es: 350; y el error ponderado por abajo es 142.1963901087007; y por arriba es 143.68703627703766 
->>>>>>> Stashed changes
 
 Contenido del DataFrame errorEquipoOAdri:
 15×2 DataFrame
@@ -42,18 +18,8 @@ Contenido del DataFrame errorEquipoOAdri:
    3 │ Los Angeles Lakers      25
    4 │ Denver Nuggets          4
    5 │ LA Clippers             49
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-   6 │ Golden State Warriors   9
-   7 │ Minnesota Timberwolves  16
-=======
    6 │ Minnesota Timberwolves  9
    7 │ Golden State Warriors   4
->>>>>>> Stashed changes
-=======
-   6 │ Minnesota Timberwolves  9
-   7 │ Golden State Warriors   4
->>>>>>> Stashed changes
    8 │ Memphis Grizzlies       1
    9 │ Sacramento Kings        9
   10 │ Dallas Mavericks        36
@@ -94,18 +60,8 @@ Contenido del DataFrame errorEquipoOIonescu:
    3 │ Los Angeles Lakers      16
    4 │ Denver Nuggets          1
    5 │ LA Clippers             16
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-   6 │ Golden State Warriors   0
-   7 │ Minnesota Timberwolves  4
-=======
    6 │ Minnesota Timberwolves  1
    7 │ Golden State Warriors   1
->>>>>>> Stashed changes
-=======
-   6 │ Minnesota Timberwolves  1
-   7 │ Golden State Warriors   1
->>>>>>> Stashed changes
    8 │ Memphis Grizzlies       36
    9 │ Sacramento Kings        25
   10 │ Dallas Mavericks        81
@@ -146,18 +102,8 @@ Contenido del DataFrame errorEquipoOSandra:
    3 │ Los Angeles Lakers      16
    4 │ Denver Nuggets          1
    5 │ LA Clippers             49
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-   6 │ Golden State Warriors   4
-   7 │ Minnesota Timberwolves  9
-=======
    6 │ Minnesota Timberwolves  4
    7 │ Golden State Warriors   1
->>>>>>> Stashed changes
-=======
-   6 │ Minnesota Timberwolves  4
-   7 │ Golden State Warriors   1
->>>>>>> Stashed changes
    8 │ Memphis Grizzlies       4
    9 │ Sacramento Kings        1
   10 │ Dallas Mavericks        64
@@ -198,18 +144,8 @@ Contenido del DataFrame errorEquipoOAlex:
    3 │ Los Angeles Lakers      25
    4 │ Denver Nuggets          1
    5 │ LA Clippers             64
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-   6 │ Golden State Warriors   9
-   7 │ Minnesota Timberwolves  16
-=======
    6 │ Minnesota Timberwolves  9
    7 │ Golden State Warriors   4
->>>>>>> Stashed changes
-=======
-   6 │ Minnesota Timberwolves  9
-   7 │ Golden State Warriors   4
->>>>>>> Stashed changes
    8 │ Memphis Grizzlies       4
    9 │ Sacramento Kings        4
   10 │ Dallas Mavericks        64
@@ -250,18 +186,8 @@ Contenido del DataFrame errorEquipoOXabo:
    3 │ Los Angeles Lakers      1
    4 │ Denver Nuggets          1
    5 │ LA Clippers             25
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-   6 │ Golden State Warriors   36
-   7 │ Minnesota Timberwolves  4
-=======
    6 │ Minnesota Timberwolves  1
    7 │ Golden State Warriors   25
->>>>>>> Stashed changes
-=======
-   6 │ Minnesota Timberwolves  1
-   7 │ Golden State Warriors   25
->>>>>>> Stashed changes
    8 │ Memphis Grizzlies       4
    9 │ Sacramento Kings        1
   10 │ Dallas Mavericks        64
