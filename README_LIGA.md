@@ -1,13 +1,13 @@
 ```
-El error absoluto de Iago es: 198 
+El error absoluto de Iago es: 220 
 
-El error absoluto de Xabo es: 238 
+El error absoluto de Xabo es: 246 
 
-El error absoluto de Eloy es: 414 
+El error absoluto de Eloy es: 428 
 
-El error absoluto de Luis es: 120 
+El error absoluto de Luis es: 134 
 
-El error absoluto de Diego es: 222 
+El error absoluto de Diego es: 236 
 
 Contenido del DataFrame errorEquipoIago:
 20×2 DataFrame
@@ -29,8 +29,8 @@ Contenido del DataFrame errorEquipoIago:
   13 │ Rayo Vallecano   4
   14 │ Mallorca         0
   15 │ Real Sociedad    4
-  16 │ Osasuna          81
-  17 │ Valencia         1
+  16 │ Valencia         4
+  17 │ Osasuna          100
   18 │ Girona           1
   19 │ Real Oviedo      1
   20 │ Levante          9
@@ -55,8 +55,8 @@ Contenido del DataFrame errorEquipoXabo:
   13 │ Rayo Vallecano   25
   14 │ Mallorca         4
   15 │ Real Sociedad    9
-  16 │ Osasuna          49
-  17 │ Valencia         16
+  16 │ Valencia         9
+  17 │ Osasuna          64
   18 │ Girona           1
   19 │ Real Oviedo      1
   20 │ Levante          9
@@ -81,8 +81,8 @@ Contenido del DataFrame errorEquipoEloy:
   13 │ Rayo Vallecano   9
   14 │ Mallorca         4
   15 │ Real Sociedad    64
-  16 │ Osasuna          64
-  17 │ Valencia         4
+  16 │ Valencia         1
+  17 │ Osasuna          81
   18 │ Girona           16
   19 │ Real Oviedo      1
   20 │ Levante          1
@@ -107,8 +107,8 @@ Contenido del DataFrame errorEquipoLuis:
   13 │ Rayo Vallecano   0
   14 │ Mallorca         16
   15 │ Real Sociedad    1
-  16 │ Osasuna          49
-  17 │ Valencia         1
+  16 │ Valencia         0
+  17 │ Osasuna          64
   18 │ Girona           4
   19 │ Real Oviedo      0
   20 │ Levante          9
@@ -133,8 +133,8 @@ Contenido del DataFrame errorEquipoDiego:
   13 │ Rayo Vallecano   9
   14 │ Mallorca         1
   15 │ Real Sociedad    16
-  16 │ Osasuna          64
-  17 │ Valencia         4
+  16 │ Valencia         1
+  17 │ Osasuna          81
   18 │ Girona           1
   19 │ Real Oviedo      1
   20 │ Levante          4
