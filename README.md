@@ -1,9 +1,9 @@
 ```
-El error absoluto de Iago es: 442; y el error ponderado por abajo es 205.6156243031234; y por arriba es 195.06777939179537 
+El error absoluto de Iago es: 420; y el error ponderado por abajo es 198.78681306756238; y por arriba es 185.09933048415425 
 
-El error absoluto de Eloy es: 770; y el error ponderado por abajo es 295.73815958603836; y por arriba es 430.6974681157734 
+El error absoluto de Eloy es: 732; y el error ponderado por abajo es 285.5756099351103; y por arriba es 398.6178948584846 
 
-El error absoluto de Xabo es: 444; y el error ponderado por abajo es 169.4495951420754; y por arriba es 198.41121366632433 
+El error absoluto de Xabo es: 410; y el error ponderado por abajo es 160.07860374830125; y por arriba es 175.19959865145046 
 
 Contenido del DataFrame errorEquipoOIago:
 15×2 DataFrame
@@ -11,12 +11,12 @@ Contenido del DataFrame errorEquipoOIago:
      │ Any                     Any
 ─────┼───────────────────────────────
    1 │ Oklahoma City Thunder   0
-   2 │ San Antonio Spurs       9
-   3 │ Denver Nuggets          1
+   2 │ Denver Nuggets          4
+   3 │ San Antonio Spurs       4
    4 │ Minnesota Timberwolves  9
    5 │ Los Angeles Lakers      1
-   6 │ Phoenix Suns            36
-   7 │ Houston Rockets         25
+   6 │ Houston Rockets         16
+   7 │ Phoenix Suns            25
    8 │ Golden State Warriors   25
    9 │ Portland Trail Blazers  4
   10 │ Memphis Grizzlies       0
@@ -53,12 +53,12 @@ Contenido del DataFrame errorEquipoOEloy:
      │ Any                     Any
 ─────┼───────────────────────────────
    1 │ Oklahoma City Thunder   1
-   2 │ San Antonio Spurs       100
-   3 │ Denver Nuggets          4
+   2 │ Denver Nuggets          1
+   3 │ San Antonio Spurs       81
    4 │ Minnesota Timberwolves  121
    5 │ Los Angeles Lakers      1
-   6 │ Phoenix Suns            25
-   7 │ Houston Rockets         16
+   6 │ Houston Rockets         9
+   7 │ Phoenix Suns            16
    8 │ Golden State Warriors   9
    9 │ Portland Trail Blazers  16
   10 │ Memphis Grizzlies       16
@@ -95,12 +95,12 @@ Contenido del DataFrame errorEquipoOXabo:
      │ Any                     Any
 ─────┼───────────────────────────────
    1 │ Oklahoma City Thunder   0
-   2 │ San Antonio Spurs       49
-   3 │ Denver Nuggets          1
+   2 │ Denver Nuggets          0
+   3 │ San Antonio Spurs       36
    4 │ Minnesota Timberwolves  9
    5 │ Los Angeles Lakers      1
-   6 │ Phoenix Suns            49
-   7 │ Houston Rockets         16
+   6 │ Houston Rockets         9
+   7 │ Phoenix Suns            36
    8 │ Golden State Warriors   9
    9 │ Portland Trail Blazers  9
   10 │ Memphis Grizzlies       0
