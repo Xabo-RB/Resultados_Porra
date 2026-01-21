@@ -1,13 +1,13 @@
 ```
-El error absoluto de Iago es: 232 
+El error absoluto de Iago es: 238 
 
-El error absoluto de Xabo es: 178 
+El error absoluto de Xabo es: 194 
 
-El error absoluto de Eloy es: 336 
+El error absoluto de Eloy es: 292 
 
-El error absoluto de Luis es: 194 
+El error absoluto de Luis es: 262 
 
-El error absoluto de Diego es: 144 
+El error absoluto de Diego es: 126 
 
 Contenido del DataFrame errorEquipoIago:
 20×2 DataFrame
@@ -21,17 +21,17 @@ Contenido del DataFrame errorEquipoIago:
    5 │ Espanyol         25
    6 │ Real Betis       0
    7 │ Celta Vigo       25
-   8 │ Athletic Club    9
-   9 │ Elche            0
-  10 │ Rayo Vallecano   1
-  11 │ Real Sociedad    4
-  12 │ Getafe           16
-  13 │ Girona           36
+   8 │ Elche            1
+   9 │ Real Sociedad    16
+  10 │ Athletic Club    25
+  11 │ Girona           64
+  12 │ Osasuna          25
+  13 │ Rayo Vallecano   4
   14 │ Sevilla FC       36
-  15 │ Osasuna          64
-  16 │ Alavés           1
-  17 │ Mallorca         9
-  18 │ Valencia         0
+  15 │ Mallorca         1
+  16 │ Getafe           0
+  17 │ Valencia         1
+  18 │ Alavés           9
   19 │ Levante          4
   20 │ Real Oviedo      0
 
@@ -47,17 +47,17 @@ Contenido del DataFrame errorEquipoXabo:
    5 │ Espanyol         4
    6 │ Real Betis       1
    7 │ Celta Vigo       16
-   8 │ Athletic Club    4
-   9 │ Elche            1
-  10 │ Rayo Vallecano   4
-  11 │ Real Sociedad    1
-  12 │ Getafe           36
-  13 │ Girona           36
+   8 │ Elche            4
+   9 │ Real Sociedad    9
+  10 │ Athletic Club    16
+  11 │ Girona           64
+  12 │ Osasuna          9
+  13 │ Rayo Vallecano   25
   14 │ Sevilla FC       1
-  15 │ Osasuna          36
-  16 │ Alavés           4
-  17 │ Mallorca         1
-  18 │ Valencia         25
+  15 │ Mallorca         1
+  16 │ Getafe           4
+  17 │ Valencia         16
+  18 │ Alavés           16
   19 │ Levante          4
   20 │ Real Oviedo      0
 
@@ -73,17 +73,17 @@ Contenido del DataFrame errorEquipoEloy:
    5 │ Espanyol         169
    6 │ Real Betis       0
    7 │ Celta Vigo       4
-   8 │ Athletic Club    9
-   9 │ Elche            16
-  10 │ Rayo Vallecano   0
-  11 │ Real Sociedad    16
-  12 │ Getafe           25
-  13 │ Girona           1
+   8 │ Elche            25
+   9 │ Real Sociedad    4
+  10 │ Athletic Club    25
+  11 │ Girona           9
+  12 │ Osasuna          16
+  13 │ Rayo Vallecano   9
   14 │ Sevilla FC       9
-  15 │ Osasuna          49
-  16 │ Alavés           0
-  17 │ Mallorca         25
-  18 │ Valencia         9
+  15 │ Mallorca         9
+  16 │ Getafe           1
+  17 │ Valencia         4
+  18 │ Alavés           4
   19 │ Levante          0
   20 │ Real Oviedo      0
 
@@ -99,17 +99,17 @@ Contenido del DataFrame errorEquipoLuis:
    5 │ Espanyol         4
    6 │ Real Betis       0
    7 │ Celta Vigo       25
-   8 │ Athletic Club    9
-   9 │ Elche            1
-  10 │ Rayo Vallecano   9
-  11 │ Real Sociedad    9
-  12 │ Getafe           1
-  13 │ Girona           49
+   8 │ Elche            4
+   9 │ Real Sociedad    25
+  10 │ Athletic Club    25
+  11 │ Girona           81
+  12 │ Osasuna          9
+  13 │ Rayo Vallecano   0
   14 │ Sevilla FC       36
-  15 │ Osasuna          36
-  16 │ Alavés           1
-  17 │ Mallorca         1
-  18 │ Valencia         4
+  15 │ Mallorca         9
+  16 │ Getafe           25
+  17 │ Valencia         1
+  18 │ Alavés           9
   19 │ Levante          4
   20 │ Real Oviedo      1
 
@@ -125,17 +125,17 @@ Contenido del DataFrame errorEquipoDiego:
    5 │ Espanyol         4
    6 │ Real Betis       0
    7 │ Celta Vigo       4
-   8 │ Athletic Club    9
-   9 │ Elche            9
-  10 │ Rayo Vallecano   0
-  11 │ Real Sociedad    0
-  12 │ Getafe           16
-  13 │ Girona           16
+   8 │ Elche            16
+   9 │ Real Sociedad    4
+  10 │ Athletic Club    25
+  11 │ Girona           36
+  12 │ Osasuna          16
+  13 │ Rayo Vallecano   9
   14 │ Sevilla FC       0
-  15 │ Osasuna          49
-  16 │ Alavés           9
-  17 │ Mallorca         16
-  18 │ Valencia         9
+  15 │ Mallorca         4
+  16 │ Getafe           0
+  17 │ Valencia         4
+  18 │ Alavés           1
   19 │ Levante          1
   20 │ Real Oviedo      0
 
