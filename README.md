@@ -1,9 +1,9 @@
 ```
-El error absoluto de Iago es: 428; y el error ponderado por abajo es 199.76171356765533; y por arriba es 194.8173585974102 
+El error absoluto de Iago es: 448; y el error ponderado por abajo es 174.93713798529615; y por arriba es 211.51960101374078 
 
-El error absoluto de Eloy es: 720; y el error ponderado por abajo es 286.5533770783426; y por arriba es 399.1277002908173 
+El error absoluto de Eloy es: 714; y el error ponderado por abajo es 274.00883344046366; y por arriba es 399.7187117856844 
 
-El error absoluto de Xabo es: 436; y el error ponderado por abajo es 165.01906268552517; y por arriba es 201.66082997642042 
+El error absoluto de Xabo es: 442; y el error ponderado por abajo es 159.3651528329459; y por arriba es 210.39700578875875 
 
 Contenido del DataFrame errorEquipoOIago:
 15×2 DataFrame
@@ -33,19 +33,19 @@ Contenido del DataFrame errorEquipoEIago:
 ─────┼────────────────────────────
    1 │ Detroit Pistons      49
    2 │ Boston Celtics       25
-   3 │ New York Knicks      4
-   4 │ Toronto Raptors      49
-   5 │ Philadelphia 76ers   0
-   6 │ Orlando Magic        16
-   7 │ Cleveland Cavaliers  16
-   8 │ Miami Heat           16
+   3 │ Toronto Raptors      64
+   4 │ New York Knicks      9
+   5 │ Cleveland Cavaliers  4
+   6 │ Philadelphia 76ers   1
+   7 │ Miami Heat           25
+   8 │ Orlando Magic        36
    9 │ Chicago Bulls        16
   10 │ Atlanta Hawks        1
   11 │ Milwaukee Bucks      49
   12 │ Charlotte Hornets    4
   13 │ Brooklyn Nets        1
-  14 │ Washington Wizards   1
-  15 │ Indiana Pacers       81
+  14 │ Indiana Pacers       64
+  15 │ Washington Wizards   0
 
 Contenido del DataFrame errorEquipoOEloy:
 15×2 DataFrame
@@ -75,19 +75,19 @@ Contenido del DataFrame errorEquipoEEloy:
 ─────┼────────────────────────────
    1 │ Detroit Pistons      169
    2 │ Boston Celtics       16
-   3 │ New York Knicks      1
-   4 │ Toronto Raptors      9
-   5 │ Philadelphia 76ers   25
-   6 │ Orlando Magic        4
-   7 │ Cleveland Cavaliers  36
-   8 │ Miami Heat           9
+   3 │ Toronto Raptors      16
+   4 │ New York Knicks      4
+   5 │ Cleveland Cavaliers  16
+   6 │ Philadelphia 76ers   16
+   7 │ Miami Heat           16
+   8 │ Orlando Magic        16
    9 │ Chicago Bulls        1
   10 │ Atlanta Hawks        49
   11 │ Milwaukee Bucks      36
   12 │ Charlotte Hornets    1
   13 │ Brooklyn Nets        4
-  14 │ Washington Wizards   4
-  15 │ Indiana Pacers       36
+  14 │ Indiana Pacers       25
+  15 │ Washington Wizards   9
 
 Contenido del DataFrame errorEquipoOXabo:
 15×2 DataFrame
@@ -117,18 +117,18 @@ Contenido del DataFrame errorEquipoEXabo:
 ─────┼────────────────────────────
    1 │ Detroit Pistons      25
    2 │ Boston Celtics       36
-   3 │ New York Knicks      1
-   4 │ Toronto Raptors      36
-   5 │ Philadelphia 76ers   4
-   6 │ Orlando Magic        9
-   7 │ Cleveland Cavaliers  36
-   8 │ Miami Heat           1
+   3 │ Toronto Raptors      49
+   4 │ New York Knicks      4
+   5 │ Cleveland Cavaliers  16
+   6 │ Philadelphia 76ers   1
+   7 │ Miami Heat           4
+   8 │ Orlando Magic        25
    9 │ Chicago Bulls        9
   10 │ Atlanta Hawks        36
   11 │ Milwaukee Bucks      36
   12 │ Charlotte Hornets    1
   13 │ Brooklyn Nets        4
-  14 │ Washington Wizards   0
-  15 │ Indiana Pacers       16
+  14 │ Indiana Pacers       9
+  15 │ Washington Wizards   1
 
 ```
